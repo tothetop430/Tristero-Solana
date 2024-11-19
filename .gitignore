@@ -1,13 +1,11 @@
 .anchor
 test-ledger
 node_modules
-tests
 target/debug
 target/release
 target/sbf-solana-solana
 target/tests
 target/types
 target/verifiable
-test-python
 generate_keypair.ts
 program_key.json
